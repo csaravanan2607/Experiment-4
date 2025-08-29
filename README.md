@@ -1,6 +1,6 @@
 # Experiment - 4
 ## ARMSTRONG NUMBER 
-# Aim: Write a python program to check the number is Armstrong number or not and inspect for failures. 
+# Aim : Write a python program to check the number is Armstrong number or not and inspect for failures. 
 
 # Algorithm :
 1.	Start the program.
